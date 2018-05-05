@@ -1,0 +1,19 @@
+[remap]
+
+importer="eska.aseprite_importer"
+type="PackedScene"
+path="res://.import/SpaceShip.json-c6326be366ac97b6b6b1733075d17f7f.scn"
+
+[deps]
+
+source_file="res://SpaceShip.json"
+source_md5="9eb3ecf012904c33463194294ff863e0"
+
+dest_files=[ "res://.import/SpaceShip.json-c6326be366ac97b6b6b1733075d17f7f.scn" ]
+dest_md5="f9f1dbbdd9746e642986815bc41166db"
+
+[params]
+
+sheet_image=""
+post_script=""
+autoplay_animation="idle"

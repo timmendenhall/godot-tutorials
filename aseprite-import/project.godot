@@ -1,0 +1,31 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=3
+
+[application]
+
+config/name="Aseprite Import Tutorial"
+config/icon="res://icon.png"
+
+[display]
+
+window/size/width=128
+window/size/height=128
+window/size/test_width=512
+window/size/test_height=512
+window/stretch/mode="2d"
+window/stretch/aspect="expand"
+
+[editor_plugins]
+
+enabled=PoolStringArray( "eska.aseprite_importer" )
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"

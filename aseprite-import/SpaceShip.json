@@ -1,0 +1,38 @@
+{ "frames": {
+   "SpaceShip 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 16, "h": 15 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 15 },
+    "sourceSize": { "w": 16, "h": 15 },
+    "duration": 100
+   },
+   "SpaceShip 1.aseprite": {
+    "frame": { "x": 16, "y": 0, "w": 16, "h": 15 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 15 },
+    "sourceSize": { "w": 16, "h": 15 },
+    "duration": 100
+   },
+   "SpaceShip 2.aseprite": {
+    "frame": { "x": 32, "y": 0, "w": 16, "h": 15 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 15 },
+    "sourceSize": { "w": 16, "h": 15 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8",
+  "image": "/Users/tim/timmendenhall/godot-tutorials/aseprite-import/SpaceShip.png",
+  "format": "RGBA8888",
+  "size": { "w": 48, "h": 15 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 2, "direction": "pingpong" }
+  ]
+ }
+}
