@@ -2,7 +2,7 @@
 
 [ext_resource path="res://SpaceShip.json" type="PackedScene" id=1]
 
-[node name="Player" type="Node2D" index="0"]
+[node name="Player" type="Node2D"]
 
 [node name="SpaceShip" parent="." index="0" instance=ExtResource( 1 )]
 

@@ -37,7 +37,7 @@ func get_error_message():
 
 func _cleanup( scene ):
 	scene.call_deferred( 'free' )
-
+	
 static func _stretch_animation_track( animation, track, length ):
 	if animation.get_length() == length: return
 	for key_index in range( animation.track_get_key_count( track ) ):

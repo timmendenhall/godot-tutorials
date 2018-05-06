@@ -11,7 +11,9 @@ config_version=3
 [application]
 
 config/name="Aseprite Import Tutorial"
+run/main_scene="res://Game.tscn"
 config/icon="res://icon.png"
+config/stretch/mode="2d"
 
 [display]
 

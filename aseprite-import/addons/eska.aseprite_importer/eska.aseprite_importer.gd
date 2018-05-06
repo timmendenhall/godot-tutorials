@@ -42,5 +42,5 @@ func _start():
 
 func _stop():
 	if import_plugin != null:
-		import_plugin = null
+#		import_plugin = null
 		remove_import_plugin(import_plugin)
