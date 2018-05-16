@@ -10,7 +10,7 @@ source_file="res://SpaceShip.png"
 source_md5="2d1f3c0968ee92dd90d303acfcaad0f6"
 
 dest_files=[ "res://.import/SpaceShip.png-293b10bcd6b9109b64e2ca3c11031f1a.stex" ]
-dest_md5="98cf878ac8578166ef8f3e41d53132e7"
+dest_md5="886cb914e4b5293279a3f3a767279e5a"
 
 [params]
 
@@ -28,5 +28,5 @@ process/premult_alpha=false
 process/HDR_as_SRGB=false
 stream=false
 size_limit=0
-detect_3d=true
+detect_3d=false
 svg/scale=1.0
